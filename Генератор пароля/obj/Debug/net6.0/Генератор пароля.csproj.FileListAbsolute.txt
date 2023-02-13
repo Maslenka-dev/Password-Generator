@@ -1,0 +1,15 @@
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\bin\Debug\net6.0\Генератор пароля.exe
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\bin\Debug\net6.0\Генератор пароля.deps.json
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\bin\Debug\net6.0\Генератор пароля.runtimeconfig.json
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\bin\Debug\net6.0\Генератор пароля.dll
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\bin\Debug\net6.0\Генератор пароля.pdb
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\Генератор пароля.csproj.AssemblyReference.cache
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\Генератор пароля.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\Генератор пароля.AssemblyInfoInputs.cache
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\Генератор пароля.AssemblyInfo.cs
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\Генератор пароля.csproj.CoreCompileInputs.cache
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\Генератор пароля.dll
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\refint\Генератор пароля.dll
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\Генератор пароля.pdb
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\Генератор пароля.genruntimeconfig.cache
+D:\Programming\C#\awful code\Генератор пароля\Генератор пароля\obj\Debug\net6.0\ref\Генератор пароля.dll
